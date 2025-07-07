@@ -41,6 +41,7 @@ const Vuapp = {
     Cmpbutton, Cmpgreeting
   },
   setup: function() {
+    alert("aaa");
     const ddnm = {key1: reactive({name: ""})};
     function fnc1(ppd) {
       ddnm.key1.name = ppd;
