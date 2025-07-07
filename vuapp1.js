@@ -1,2 +1,1 @@
-alert("aaa");
-alert("bbb");
+alert("test");
